@@ -22,5 +22,6 @@ enum Enum{
     INSTANCE;//属性
     public void method(){
         //方法
+        System.out.println("ok~");
     }
 }
